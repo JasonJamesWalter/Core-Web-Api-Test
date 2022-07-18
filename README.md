@@ -15,4 +15,5 @@ A new statistic should be provided for both API's. This will be a top ten list o
 
 ## Clean Up
 
-You have also been asked to try to clean up the codebase if you are able to. Some parts are not as you might wish them to.
+You have also been asked to try to clean up/refactor the codebase if you are able to. Some parts are not using best practices
+
